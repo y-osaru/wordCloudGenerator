@@ -1,0 +1,2 @@
+# wordCloudGenerator
+ワードクラウドジェネレーター
